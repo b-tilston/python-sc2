@@ -13,5 +13,9 @@ HellionBot for the Terrans:
 ![terran](https://user-images.githubusercontent.com/57527630/123119282-49212500-d43b-11eb-8dd9-0d320a30ec13.jpg)
 Can be found in examples/terran/hellion.py
 
-Find the BurnySc2/ repository here:
+Find the BurnySc2/python-sc2 repository here:
 https://github.com/BurnySc2/python-sc2
+
+Find the official Blizzard repository here:
+https://github.com/Blizzard/s2client-proto
+
